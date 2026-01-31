@@ -12,6 +12,7 @@ It also has an ignition button that needs to be pressed before allowing the engi
 Starting repository: 
 ---------------------------------------------------------------------------------------------------------------------------
 This project builds on the structure and concepts developed in Project 1 of Iyene's code. The original repository included basic GPIO input and output handling using ESP-IDF. Project 2 expands on this by adding ADC-based sensing, timing logic, and multi-condition decision making.
+Here is the Github link to Iyene's repository: https://github.com/ZJONION27/Project_1_Zeltser
 
 Summary of Testing Results:
 ---------------------------------------------------------------------------------------------------------------------------
