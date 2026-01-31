@@ -7,7 +7,9 @@ This project implements an enhanced vehicle safety and lighting control system u
 The system check the following:
 - if the driver and passenger seats are occupied 
 - if the seatbelts are on
-It also has an ignition button that needs to be pressed before allowing the engine to start and provides LED and buzzer feedback if conditions are unsafe. Once the system is running, the system controls headlights using OFF, ON, or AUTO modes. For the AUTO mode the system uses a light sensor with delays. Our system also has a high-beam switch that allows manual high-beam control when the headlights are on.
+
+It also has an ignition button that needs to be pressed before allowing the engine to start and provides LED and buzzer feedback if conditions are unsafe. 
+Once the system is running, the system controls headlights using OFF, ON, or AUTO modes. For the AUTO mode the system uses a light sensor with delays. Our system also has a high-beam switch that allows manual high-beam control when the headlights are on.
 
 Starting repository: 
 ---------------------------------------------------------------------------------------------------------------------------
